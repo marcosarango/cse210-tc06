@@ -35,3 +35,4 @@ root                    (project root folder)
 ## Authors
 ---
 * marco 
+* James Rainey raineyatsea@gmail.com
