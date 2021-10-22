@@ -34,5 +34,5 @@ root                    (project root folder)
 
 ## Authors
 ---
-* marco 
+* marco sarango sar21005@byui.edu
 * James Rainey raineyatsea@gmail.com
