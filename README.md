@@ -34,5 +34,8 @@ root                    (project root folder)
 
 ## Authors
 ---
+* marco 
+* Kjellden Knutzen KjelldenKnutzen@gmail.com
 * marco sarango sar21005@byui.edu
 * James Rainey raineyatsea@gmail.com
+

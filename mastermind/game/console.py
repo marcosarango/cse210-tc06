@@ -1,14 +1,23 @@
 class Console:
 
     def _read(self, message):
-        pass
+        return input(message)
+
 
 
     def _write(self, text):
-        pass
+        return print(text)
 
     def _check_guess(self, guess):
-        pass
+        if len(guess) != 4:
+            return False
+
+        else:
+            return True
+        
 
     def _check_if_win(self, hint):
-        pass
+        if hint == "xxxx":
+            return True
+        else:
+            return False

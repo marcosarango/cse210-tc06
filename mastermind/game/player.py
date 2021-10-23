@@ -4,4 +4,4 @@ class Player:
         self.player_name = name
 
     def _get_name(self):
-        pass
+        return self.player_name

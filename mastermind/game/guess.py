@@ -5,4 +5,4 @@ class Guess:
 
 
     def _get_guess(self):
-        pass
+        return ("What is your guess? ")
