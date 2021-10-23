@@ -35,3 +35,4 @@ root                    (project root folder)
 ## Authors
 ---
 * marco 
+* Kjellden Knutzen KjelldenKnutzen@gmail.com
